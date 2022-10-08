@@ -9,6 +9,6 @@
     }
   ],
   "require": {
-    "php-stubs/wordpress-stubs": "5.9.3"
+    "php-stubs/wordpress-stubs": "^6.0.0"
   }
 }
