@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/stubs-bug",
+  "description": "description",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Calvin Alkan",
+      "email": "calvin@snicco.de"
+    }
+  ],
+  "require": {
+    "php-stubs/wordpress-stubs": "5.9.3"
+  }
+}
